@@ -1,9 +1,29 @@
+# URL Shortener
+small to-do list created with React
 
-### `npm start`
+##  Features
 
-Runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Clean and fast UI
+- Allows for edit and removal of previosly inputted tasks
+---
 
-The page will reload if you make edits.\
+## Getting Started
 
+### 1. Run Locally
+- clone repo and cd into project folder 
+
+
+- npm install
+
+- npm start
+  
+- Server should start on `http://localhost:3000`
+
+## Credits
+- Built by Devansh Jain
+- UI inspired by SafetyKit and modern SaaS design
+
+---
+
+Feel free to fork, modify, and use for your own projects! 
 
